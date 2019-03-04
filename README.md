@@ -13,6 +13,5 @@ BackEnd Web development Using Django
                     --->Python 2.7.9 and later, and Python 3.4 and later include pip by default.   
    -------------------------------------------------------------------------------------------------- 
    2.Creating a Project 
-    -------------------------------
     a.django-adming startproject helloworld
       
