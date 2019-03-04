@@ -2,7 +2,7 @@
 BackEnd Web development Using Django
 
 
-{  1.latest official version 
+  1.latest official version 
   >>>pip install django(for windows)
       what is pip------>package management system
                         used to install and manage software packages written in Python.
