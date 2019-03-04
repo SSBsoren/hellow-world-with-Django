@@ -3,6 +3,7 @@ BackEnd Web development Using Django
 
 
   1.latest official version 
+  --------------------------------------
      pip install django(for windows)
   --------------------------------------
       what is pip------>package management system
