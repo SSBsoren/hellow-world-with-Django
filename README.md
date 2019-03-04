@@ -11,6 +11,8 @@ BackEnd Web development Using Django
                     --->Many packages can be found in the default source for packages and 
                          their dependencies — Python Package Index.
                     --->Python 2.7.9 and later, and Python 3.4 and later include pip by default.   
-  
-   2.
+   -------------------------------------------------------------------------------------------------- 
+   2.Creating a Project 
+    -------------------------------
+    a.django-adming startproject helloworld
       
