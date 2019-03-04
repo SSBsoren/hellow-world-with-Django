@@ -15,5 +15,7 @@ BackEnd Web development Using Django
   ---------------------------------------------------------------------------------------------------
   2.Creating a Project 
    -------------------------------------
-    a.django-adming startproject helloworld
+     django-adming startproject helloworld
+     ------------------------------------------
+     
       
