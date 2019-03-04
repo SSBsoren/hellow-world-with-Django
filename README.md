@@ -12,6 +12,8 @@ BackEnd Web development Using Django
                          their dependencies — Python Package Index.
                     --->Python 2.7.9 and later, and Python 3.4 and later include pip by default.   
    -------------------------------------------------------------------------------------------------- 
-   2.Creating a Project 
+  ---------------------------------------------------------------------------------------------------
+  2.Creating a Project 
+   -------------------------------------
     a.django-adming startproject helloworld
       
